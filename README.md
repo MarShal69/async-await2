@@ -1,3 +1,6 @@
+# SI Test demo
+[![Build status](https://ci.appveyor.com/api/projects/status/jmdt58uqdyb52vj7?svg=true)](https://ci.appveyor.com/project/MarShal69/async-await2)
+
 # Домашнее задание к лекции «Promises, async/await»
 
 ### **Важные моменты** 
