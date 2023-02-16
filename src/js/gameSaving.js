@@ -1,4 +1,3 @@
-
 export default class GameSaving {
   constructor(id, created, userInfo) {
     this.id = id;
